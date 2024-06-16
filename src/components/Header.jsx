@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import Logo from "./Logo";
 import Container from "./Container";
 import NavLinks from "./Navlinks";
-import Button from "./Button"; // Assuming Button component is defined elsewhere
+import Button from "./Button";
 import Link from "next/link";
 import { IoIosArrowUp } from "react-icons/io";
 import { TbMenu2 } from "react-icons/tb";

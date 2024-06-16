@@ -4,5 +4,5 @@
 
 .hero-img {
   background-image: url("https://agrisustineri.org/wp-content/uploads/2022/05/Petani-Muda-Indonesia-Upaya-Menarik-Minat-dan-Regenerasinya.jpg");
-  filter: brightness(50%); /* Mengurangi kecerahan menjadi 70% */
+  filter: brightness(50%);
 }
