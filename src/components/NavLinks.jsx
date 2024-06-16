@@ -39,12 +39,10 @@ function NavLinks() {
                 }}
               />
             )}
-                     
           </AnimatePresence>
-                    <span className="relative z-10">{title}</span>
+          <span className="relative z-10">{title}</span>
         </motion.div>
       ))}
-         
     </>
   );
 }
