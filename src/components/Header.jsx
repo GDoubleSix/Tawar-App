@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Logo from "./Logo";
 import Container from "./Container";
-import NavLinks from "./Navlinks";
+import NavLinks from "./NavLinks";
 import Button from "./Button";
 import Link from "next/link";
 import { IoIosArrowUp } from "react-icons/io";
