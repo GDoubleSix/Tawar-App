@@ -29,7 +29,7 @@ const Button = forwardRef(function Button(
   return href ? (
     <Link
       ref={ref}
-      href={`components/${Contact}`}
+      href={`components/${}`}
       className={className}
       {...props}
     >
