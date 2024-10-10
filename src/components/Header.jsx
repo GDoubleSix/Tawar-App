@@ -28,7 +28,7 @@ function Header() {
           </div>
           <div className="hidden lg:flex items-center gap-6">
             <Button className="px-4 py-2 rounded-full bg-green-700 text-white hover:bg-green-800">
-              <Link href="#">Join Us</Link>
+              <Link href="https://marketplace-tawar.vercel.app/">Join Us</Link>
             </Button>
           </div>
           <div className="lg:hidden flex items-center">
