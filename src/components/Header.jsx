@@ -49,7 +49,7 @@ function Header() {
             <div className="flex flex-col items-start gap-4">
               <NavLinks />
               <Button
-                href=""
+                href="https://marketplace-tawar.vercel.app/"
                 className="px-4 py-2 rounded-full bg-green-700 text-white hover:bg-green-800"
               >
                 Join Us
